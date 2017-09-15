@@ -7,3 +7,6 @@ File names are converted into SHA-hash ids and file information is stored as byt
 Note that Branch.java and Commit.java serve to encapsulate our branch and commit nodes, which are structurally similar to trees.
 
 FileIO contains functions that serialize/deserialize input files. Repo.java is where all the action happens (code for git commands, helper methods, etc, etc)..
+
+
+I created this project in Summer 2017 as part of a Data Structures course at UC Berkeley.
