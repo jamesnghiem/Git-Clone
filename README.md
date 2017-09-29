@@ -9,4 +9,4 @@ Note that Branch.java and Commit.java serve to encapsulate our branch and commit
 FileIO contains functions that serialize/deserialize input files. Repo.java is where all the action happens (code for git commands, helper methods, etc, etc)..
 
 
-I created this project in Summer 2017 as part of a Data Structures course at UC Berkeley.
+I created this project with Edward Sa, Leon Kwak, Dahyun Kim, and Jiwhan Bae in Summer 2017 as part of a Data Structures course at UC Berkeley.
